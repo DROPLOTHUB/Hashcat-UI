@@ -24,5 +24,5 @@ yes i was able crack a password from a protected docx document which one of my r
 # when will the release of the program be?
 the release of the program in its stage is halfway done but i have colledge and work so any time i get i do tinker with my projects and gets something done.
 so the first version of the program maybe 2 to 3 months.
-im also open to more experianced developers to message me and give me some learning lessons on best was of coding this type of program this program is my take of what im mainly capibale of at the moment 
+im also open to more experianced developers to message me and give me some learning lessons on best was of coding this type of program this program is my take of what im mainly capable of at the moment 
 i do have great experiance in C# some LUA little c++  but C# is what this is going to be maid in as its my strongest in the understanding 
