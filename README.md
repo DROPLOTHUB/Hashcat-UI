@@ -18,7 +18,7 @@ Also i have already implimented some of the requirments to have john-the-ripper 
 
 # Has it worked using my UI?
 
-yes i was able crack a password from a protected docx document which one of my reletives fogotten the password and as i used a dictonary attach method i was able to get past within around 5 minutes as the passwork was only four characters long but this was a great test to see if my UI did work in a situation where i needed a quick way of choosing the method and the attach method.
+yes i was able crack a password from a protected docx document which one of my reletives fogotten the password and as i used a dictionary attack method i was able to get past within around 5 minutes as the password was only four characters long but this was a great test to see if my UI did work in a situation where i needed a quick way of choosing the method and the attack method.
 
 
 # when will the release of the program be?
